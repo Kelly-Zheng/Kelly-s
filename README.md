@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kelly's Wed page
 
 You can use the [editor on GitHub](https://github.com/Kelly-Zheng/Kelly-s/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
